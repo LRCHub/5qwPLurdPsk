@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Highway",
+  "base_artist": "Midnight Grand Orchestra",
+  "createdAt": "2025-12-23T06:44:10.935458Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Life is a Highway",
+      "artist": "Rascal Flatts",
+      "has_synced": true,
+      "path": "select/01_Life_is_a_Highway_Rascal_Flatts.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Carefree Highway",
+      "artist": "Gordon Lightfoot",
+      "has_synced": true,
+      "path": "select/02_Carefree_Highway_Gordon_Lightfoot.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Carefree Highway (Album Version)",
+      "artist": "Gordon Lightfoot",
+      "has_synced": true,
+      "path": "select/03_Carefree_Highway_(Album_Version)_Gordon_Lightfoot.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Freedom Was A Highway",
+      "artist": "Jimmie Allen",
+      "has_synced": true,
+      "path": "select/04_Freedom_Was_A_Highway_Jimmie_Allen.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Freedom Was A Highway",
+      "artist": "Jimmie Allen",
+      "has_synced": true,
+      "path": "select/05_Freedom_Was_A_Highway_Jimmie_Allen.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Heartbreak Highway",
+      "artist": "Jameson Rodgers",
+      "has_synced": true,
+      "path": "select/06_Heartbreak_Highway_Jameson_Rodgers.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hell on a Highway",
+      "artist": "Justin Moore",
+      "has_synced": true,
+      "path": "select/07_Hell_on_a_Highway_Justin_Moore.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Highway 20 Ride",
+      "artist": "Zac Brown Band",
+      "has_synced": true,
+      "path": "select/08_Highway_20_Ride_Zac_Brown_Band.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Highway 40 Blues",
+      "artist": "Ricky Skaggs",
+      "has_synced": true,
+      "path": "select/09_Highway_40_Blues_Ricky_Skaggs.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Highway 40 Blues (Album Version)",
+      "artist": "Ricky Skaggs",
+      "has_synced": true,
+      "path": "select/10_Highway_40_Blues_(Album_Version)_Ricky_Skaggs.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Highway 40 Blues (Album Version)",
+      "artist": "Ricky Skaggs",
+      "has_synced": true,
+      "path": "select/11_Highway_40_Blues_(Album_Version)_Ricky_Skaggs.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Highway Boys",
+      "artist": "Zach Bryan",
+      "has_synced": true,
+      "path": "select/12_Highway_Boys_Zach_Bryan.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Highway Don't Care",
+      "artist": "Tim McGraw",
+      "has_synced": false,
+      "path": "select/13_Highway_Don't_Care_Tim_McGraw.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Highway On The Water",
+      "artist": "Brian Kelley",
+      "has_synced": false,
+      "path": "select/14_Highway_On_The_Water_Brian_Kelley.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Life Is a Highway",
+      "artist": "Chris LeDoux",
+      "has_synced": true,
+      "path": "select/15_Life_Is_a_Highway_Chris_LeDoux.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Highway",
+      "artist": "Midnight Grand Orchestra",
+      "has_synced": false,
+      "path": "select/pl_01_Highway_Midnight_Grand_Orchestra.txt"
+    }
+  ]
+}
